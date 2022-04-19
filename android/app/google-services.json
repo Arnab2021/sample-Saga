@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823313912807",
+    "project_id": "rnapp-faa1f",
+    "storage_bucket": "rnapp-faa1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823313912807:android:7ac8531f2534a01362e342",
+        "android_client_info": {
+          "package_name": "com.rnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823313912807-b3unr8etkv7arbq3d1ehace0dd2d2ou9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ZiTX5ncKzXTu3UQs_0VosAjDigEUd6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823313912807-b3unr8etkv7arbq3d1ehace0dd2d2ou9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
